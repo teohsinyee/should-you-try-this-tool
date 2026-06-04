@@ -14,21 +14,21 @@ If you are just browsing, you should be able to understand each tool from this p
 
 | Tool | What it does | Why it matters | Verdict | Media | Link |
 | --- | --- | --- | --- | --- | --- |
-| More soon | I am continuously adding newly released tools here. | Check back for quick verdicts, previews, and direct links. | `Revisit` | Preview coming soon | TBA |
+| Microsoft Intelligent Terminal | An AI-assisted terminal that suggests follow-up commands when a command fails. | It removes the usual step of copying terminal errors into another AI tool, which can make command-line work less intimidating for beginners. | `Useful` | ![Microsoft Intelligent Terminal preview](assets/images/microsoft-intelligent-terminal.gif)<br>[Watch full video](assets/videos/microsoft-intelligent-terminal.mp4) | [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal) |
 
 ## Recently Added
 
-- First exploration coming soon
+- `2026-06-04` Microsoft Intelligent Terminal
 
 ## Quick Stats
 
 | Metric | Value |
 | --- | --- |
-| Total tools | 0 |
-| AI-related | 0 |
+| Total tools | 1 |
+| AI-related | 1 |
 | Non-AI-related | 0 |
-| With screenshots | 0 |
-| With videos | 0 |
+| With screenshots | 1 |
+| With videos | 1 |
 
 ## How I Judge Tools
 
