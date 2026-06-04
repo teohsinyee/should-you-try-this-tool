@@ -1,47 +1,44 @@
-# Productivity Explore Inventory
+# Should You Try This Tool?
 
-A lightweight README-first inventory of productivity tools I test and share, across both AI and non-AI categories.
+Curious about a new productivity tool? I probably tested it already.
 
-I test newly released tools that might improve productivity, both AI and non-AI, and share the ones that are worth a closer look.
-
-If you are just browsing, you should be able to understand each tool from this page alone:
-- what it does
-- why it matters
-- my quick verdict
-- a screenshot or short recording
+New AI and non-AI productivity tools, tested with quick verdicts, previews, and links.
 
 ## Inventory
 
-| Tool | What it does | Why it matters | Verdict | Media | Link |
-| --- | --- | --- | --- | --- | --- |
-| Microsoft Intelligent Terminal | An AI-assisted terminal that suggests follow-up commands when a command fails. | It removes the usual step of copying terminal errors into another AI tool, which can make command-line work less intimidating for beginners. | `Useful` | ![Microsoft Intelligent Terminal preview](assets/images/microsoft-intelligent-terminal.gif)<br>[Watch full video](assets/videos/microsoft-intelligent-terminal.mp4) | [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal) |
+<table>
+  <colgroup>
+    <col style="width: 15%;">
+    <col style="width: 25%;">
+    <col style="width: 10%;">
+    <col style="width: 50%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Tool</th>
+      <th>Takeaway</th>
+      <th>Verdict</th>
+      <th>Media</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/microsoft/intelligent-terminal">Microsoft Intelligent Terminal</a><br><sub><code>microsoft/intelligent-terminal</code></sub></td>
+      <td>AI suggests a follow-up command when one fails, so beginners can recover faster without copying errors into another tool.</td>
+      <td><img src="https://img.shields.io/badge/Useful-green" alt="Useful"></td>
+      <td><img src="assets/images/microsoft-intelligent-terminal.gif" alt="Microsoft Intelligent Terminal preview" width="440"><br><a href="assets/videos/microsoft-intelligent-terminal.mp4">Watch full video</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Recently Added
 
 - `2026-06-04` Microsoft Intelligent Terminal
 
-## Quick Stats
+## Verdicts
 
-| Metric | Value |
-| --- | --- |
-| Total tools | 1 |
-| AI-related | 1 |
-| Non-AI-related | 0 |
-| With screenshots | 1 |
-| With videos | 1 |
-
-## How I Judge Tools
-
-I focus on tools that help me move faster, reduce friction, or make it easier to share useful workflows with others.
-
-- `Useful` = worth reusing and sharing
-- `Promising` = strong idea, still early or needs more testing
-- `Niche` = good for a specific workflow, not broadly useful
-- `Skip` = tested, but not worth keeping in my stack
-- `Revisit` = not ready to judge yet, or I want to retest later
-
-## Notes
-
-- This repo is an inventory, not a review blog.
-- The README schema is intentionally lightweight and visitor-first.
-- Readers should be able to understand the whole collection without opening subfolders.
+- <img src="https://img.shields.io/badge/Useful-green" alt="Useful"> = worth reusing and sharing
+- <img src="https://img.shields.io/badge/Promising-blue" alt="Promising"> = strong idea, still early or needs more testing
+- <img src="https://img.shields.io/badge/Niche-lightgrey" alt="Niche"> = good for a specific workflow, not broadly useful
+- <img src="https://img.shields.io/badge/Skip-red" alt="Skip"> = tested, but not worth keeping in my stack
+- <img src="https://img.shields.io/badge/Revisit-yellow" alt="Revisit"> = not ready to judge yet, or I want to retest later
