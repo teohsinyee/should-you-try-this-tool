@@ -23,6 +23,12 @@ New AI and non-AI productivity tools, tested with quick verdicts, previews, and 
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/icebird1998/drawio-scientific-illustrator">Draw.io Scientific Illustrator</a><br><sub><code>icebird1998/drawio-scientific-illustrator</code></sub></td>
+      <td>Recreates reference images directly on the live draw.io canvas, so text, panels, connectors, and legends stay editable for later customization.</td>
+      <td><img src="https://img.shields.io/badge/Useful-green" alt="Useful"></td>
+      <td><img src="assets/images/drawio-scientific-illustrator.gif" alt="Draw.io Scientific Illustrator preview" width="440"><br><a href="assets/videos/drawio-scientific-illustrator.mp4">Watch full video</a></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/microsoft/intelligent-terminal">Microsoft Intelligent Terminal</a><br><sub><code>microsoft/intelligent-terminal</code></sub></td>
       <td>AI suggests a follow-up command when one fails, so beginners can recover faster without copying errors into another tool.</td>
       <td><img src="https://img.shields.io/badge/Useful-green" alt="Useful"></td>
@@ -33,6 +39,7 @@ New AI and non-AI productivity tools, tested with quick verdicts, previews, and 
 
 ## Recently Added
 
+- `2026-07-22` Draw.io Scientific Illustrator
 - `2026-06-04` Microsoft Intelligent Terminal
 
 ## Verdicts
